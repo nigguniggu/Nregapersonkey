@@ -222,5 +222,5 @@
         "password": "pass456",
         "expirydate": "30-08-2025",
         "Allowoffline": false
-    },
+    }
 ]
